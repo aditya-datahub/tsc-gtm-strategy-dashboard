@@ -1,0 +1,15 @@
+Phase,Phase Name,Day Range,KPI,Target,Activity,Activity Type
+Phase 1,Foundation,Day 0-30,Target Companies,50,Build account universe from IT / BFSI / Healthcare,Research
+Phase 1,Foundation,Day 0-30,Key Contacts,100,Identify CFO / CSO and ESG Heads in each account,Research
+Phase 1,Foundation,Day 0-30,Discovery Calls,20,Initial outreach and qualification calls,Outreach
+Phase 1,Foundation,Day 0-30,Qualified Opportunities,10,Qualify leads based on ESG maturity and budget,Sales
+Phase 1,Foundation,Day 0-30,Pipeline Coverage,3x Revenue Target,Build 3x pipeline for target revenue,Sales
+Phase 2,Engagement,Day 31-60,Customer Meetings,20,Deep-dive meetings with decision makers,Engagement
+Phase 2,Engagement,Day 31-60,Workshops,10,Discovery workshops to quantify energy and water savings,Engagement
+Phase 2,Engagement,Day 31-60,Opportunities,10,Advance qualified pipeline to proposal stage,Sales
+Phase 2,Engagement,Day 31-60,Proposals,5,Develop customized business cases with ROI,Sales
+Phase 2,Engagement,Day 31-60,Pilot Discussions,3,Identify accounts ready for pilot programs,Sales
+Phase 3,Conversion,Day 61-90,Pilots Live,02-Mar,Launch paid or sponsored pilot programs,Conversion
+Phase 3,Conversion,Day 61-90,Early Wins,2,Close first lighthouse customers,Conversion
+Phase 3,Conversion,Day 61-90,Revenue Pipeline,4x Revenue Target,Build 4x pipeline for next quarter,Sales
+Phase 3,Conversion,Day 61-90,Reference Accounts,1,Onboard first customer as public reference,Conversion
