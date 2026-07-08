@@ -1,0 +1,17 @@
+Type,Name,Priority,Priority Score,Role Description,Engagement Focus,Region
+Stakeholder,CFO,Very High,5,Approves budget and financial decisions,ROI and cost savings,
+Stakeholder,Chief Sustainability Officer,Very High,5,Owns ESG strategy and targets,ESG goals and net zero roadmap,
+Stakeholder,ESG Head,Very High,5,Manages ESG reporting and compliance,Reporting automation and compliance,
+Stakeholder,Facilities Head,High,4,Manages buildings energy and water,Energy and water operations,
+Stakeholder,Procurement Head,Medium,3,Evaluates and selects vendors,Vendor fit and pricing,
+Stakeholder,Operations Head,Medium,3,Day-to-day operations management,Implementation and change management,
+Regulation,BRSR,Very High,5,Mandatory ESG reporting for top 1000 listed companies in India,Compliance deadline pressure,India
+Regulation,BRSR Core,High,4,Extended value chain disclosures for top 150 listed companies,Supply chain reporting,India
+Regulation,SEBI ESG Requirements,Very High,5,ESG governance mandatory for all listed companies,Board level accountability,India
+Regulation,Energy Conservation Act,High,4,Energy efficiency mandate for large consumers,Reduce energy consumption,India
+Regulation,ISSB S1 & S2,High,4,Global sustainability disclosure standards,International reporting alignment,Global
+Regulation,SBTi,Medium,3,Science-based emission reduction targets,Credible net zero commitments,Global
+Regulation,CDP,Medium,3,Carbon data public disclosure,Investor and customer transparency,Global
+Regulation,TCFD,Medium,3,Climate risk disclosure for financial sector,Risk management reporting,Global
+Regulation,CBAM,Medium,3,EU carbon border tax affecting exporters,Supply chain decarbonization,Global
+Regulation,GHG Protocol,Medium,3,Global standard for measuring and reporting greenhouse gas emissions,Emissions accounting baseline,Global
