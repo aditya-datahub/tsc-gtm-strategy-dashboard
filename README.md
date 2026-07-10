@@ -10,8 +10,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)]()
 
-[Dashboard Walkthrough](#dashboard-walkthrough) · [Skills Demonstrated](#skills-demonstrated) · [Data Model](#data-model) · [Contact](#author--contact)
-
 </div>
 
 ---
