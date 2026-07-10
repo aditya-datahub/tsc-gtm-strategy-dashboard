@@ -156,7 +156,7 @@ All matrices use a **weighted scoring model** (1–5 scale) so that qualitative 
 ## 🗂️ Repository Structure
 
 ```
-tsc-gtm-strategy-dashboard/
+esg-gtm-strategy-dashboard/
 │
 ├── dashboard/                  # Power BI dashboard file (.pbix) & exports
 ├── data/                       # Source CSV data model
