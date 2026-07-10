@@ -201,7 +201,7 @@ tsc-gtm-strategy-dashboard/
 
 📫 Open to feedback, opportunities, and conversations — feel free to connect or open an issue.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-data-analyst/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sharma-data-analyst/?skipRedirect=true)
 
 
 ---
