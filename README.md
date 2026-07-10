@@ -158,7 +158,8 @@ All matrices use a **weighted scoring model** (1–5 scale) so that qualitative 
 ```
 esg-gtm-strategy-dashboard/
 │
-├── dashboard/                  # Power BI dashboard file (.pbix) & exports
+├── dashboard/
+│   └── tsc_dashboard.pbix      # Power BI dashboard file
 ├── data/                       # Source CSV data model
 │   ├── 1_industry_matrix.csv
 │   ├── 2_companies_and_products.csv
