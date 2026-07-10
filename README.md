@@ -10,11 +10,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)]()
 
-[View Dashboard Screenshots](#️-dashboard-walkthrough) · [Explore the Data](#-data-model) · [Read the Summary Note](problem_statement)
+[View Dashboard Screenshots](#️-dashboard-walkthrough) · [Explore the Data](#-data-model) · [Read the Summary Note](docs/TSC_GTM_Dashboard_Summary_Note.pdf)
 
 <br>
 
-<img src="images/01_executive_overview.png" width="100%" alt="TSC GTM Strategy Dashboard Preview" />
+<img src="images/Executive%20Overview.png" width="100%" alt="TSC GTM Strategy Dashboard Preview" />
 
 
 </div>
@@ -62,7 +62,7 @@ The dashboard follows a single logical storyline across 5 pages — from the big
 
 Sets the scale of the strategy: **3 target industries, 50 target companies, 90-day timeline, 2–3 early wins.** Summarizes the target market, key buyers (CFO, CSO, ESG Head), and TSC's 3-product suite.
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](images/Executive%20Overview.png)
 
 <br>
 
@@ -72,7 +72,7 @@ An 8-criteria matrix (ESG maturity, regulatory pressure, spending capacity, ease
 
 **Result: IT & ITES ranks highest (5★)** — most ESG-mature, strongest budgets, easiest entry — followed by BFSI and Healthcare (4★ each).
 
-![Industry & Market Analysis](images/02_industry_market_analysis.png)
+![Industry & Market Analysis](images/Industry%20%26%20Market%20Analysis.png)
 
 <br>
 
@@ -82,7 +82,7 @@ Maps TSC Net Zero / Energy / Water Offset against each industry's needs, then be
 
 **Finding: no competitor offers Carbon + Energy + Water in a single, India-focused platform — TSC is the only integrated, India-first solution in the set.**
 
-![Product Strategy & Competition](images/03_product_strategy_competition.png)
+![Product Strategy & Competition](images/Product%20Strategy%20%26%20Competition.png)
 
 <br>
 
@@ -90,7 +90,7 @@ Maps TSC Net Zero / Energy / Water Offset against each industry's needs, then be
 
 Identifies the **"power triangle"** — CFO, Chief Sustainability Officer, and ESG Head — as the highest-priority buyers, and lists the regulations (BRSR, BRSR Core, SEBI, CBAM, CDP, SBTi, TCFD, GHG Protocol) that are converting sustainability from a reporting exercise into a budgeted, urgent initiative.
 
-![Stakeholder & Regulatory Landscape](images/04_stakeholder_regulatory_landscape.png)
+![Stakeholder & Regulatory Landscape](images/Stakeholder%20%26%20Regulatory%20Landscape.png)
 
 <br>
 
@@ -102,7 +102,7 @@ Breaks execution into three phases:
 - **Phase 2 — Engagement (Day 31–60):** 20 customer meetings, 10 workshops, 5 proposals, 3 pilot discussions
 - **Phase 3 — Conversion (Day 61–90):** 2–3 live pilots, 2 early wins, 1 reference account, 4x revenue pipeline
 
-![90-Day GTM Execution Plan](images/05_90day_gtm_execution_plan.png)
+![90-Day GTM Execution Plan](images/90-Day%20GTM%20Execution%20Plan.png)
 
 ---
 
@@ -129,7 +129,10 @@ tsc-gtm-strategy-dashboard/
 │   ├── 4_competition.csv
 │   └── 5_roadmap.csv
 ├── images/                     # Dashboard page screenshots
-├── problem_statement/          # Original GTM strategy brief & summary note
+├── docs/                        # Supporting documents
+│   ├── TSC_GTM_Dashboard_Summary_Note.pdf
+│   └── TSC_Gallery_Carousel.pdf
+├── problem_statement/          # Original GTM strategy brief
 ├── LICENSE
 └── README.md
 ```
@@ -166,13 +169,14 @@ All matrices use a **weighted scoring model** (1–5 scale) so that qualitative 
 1. Clone or download this repository
 2. Open `dashboard/TSC_GTM_Strategy_Dashboard.pbix` in **Power BI Desktop** (free download from Microsoft)
 3. Use the **Filter by Industry** buttons (Page 2 & 3) and **Filter by Phase** buttons (Page 5) to explore the data interactively
-4. Alternatively, browse the static screenshots in the [`images/`](images) folder or the [gallery carousel PDF](TSC_Gallery_Carousel.pdf)
+4. Alternatively, browse the static screenshots in the [`images/`](images) folder or the [gallery carousel PDF](docs/TSC_Gallery_Carousel.pdf)
 
 ---
 
 ## 📄 Supporting Documents
 
-- **[Project Summary Note](TSC_GTM_Dashboard_Summary_Note.pdf)** — full written walkthrough of the business context, dashboard structure, and strategic takeaways
+- **[Project Summary Note](docs/TSC_GTM_Dashboard_Summary_Note.pdf)** — full written walkthrough of the business context, dashboard structure, and strategic takeaways
+- **[Gallery Carousel](docs/TSC_Gallery_Carousel.pdf)** — a swipeable visual summary of all 5 dashboard pages, ready to share on LinkedIn
 - **[Original Problem Statement](problem_statement)** — the GTM strategy brief this dashboard was built from
 
 ---
