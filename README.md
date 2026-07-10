@@ -10,7 +10,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)]()
 
-[View Dashboard Screenshots](#-dashboard-walkthrough) · [Explore the Data](#-data-model) · [Read the Summary Note](problem_statement)
+[View Dashboard Screenshots](#️-dashboard-walkthrough) · [Explore the Data](#-data-model) · [Read the Summary Note](problem_statement)
+
+<br>
+
+<img src="images/01_executive_overview.png" width="100%" alt="TSC GTM Strategy Dashboard Preview" />
+
 
 </div>
 
@@ -53,45 +58,43 @@ The dashboard follows a single logical storyline across 5 pages — from the big
 
 <br>
 
-<details>
-<summary><b>📊 Page 1 — Executive Overview</b></summary>
-<br>
+### 📊 Page 1 — Executive Overview
 
 Sets the scale of the strategy: **3 target industries, 50 target companies, 90-day timeline, 2–3 early wins.** Summarizes the target market, key buyers (CFO, CSO, ESG Head), and TSC's 3-product suite.
 
-</details>
+![Executive Overview](images/01_executive_overview.png)
 
-<details>
-<summary><b>📊 Page 2 — Industry & Market Analysis</b></summary>
 <br>
+
+### 📊 Page 2 — Industry & Market Analysis
 
 An 8-criteria matrix (ESG maturity, regulatory pressure, spending capacity, ease of entry, etc.) compares **IT & ITES, BFSI, and Healthcare**, color-coded for instant readability.
 
 **Result: IT & ITES ranks highest (5★)** — most ESG-mature, strongest budgets, easiest entry — followed by BFSI and Healthcare (4★ each).
 
-</details>
+![Industry & Market Analysis](images/02_industry_market_analysis.png)
 
-<details>
-<summary><b>📊 Page 3 — Product Strategy & Competition</b></summary>
 <br>
+
+### 📊 Page 3 — Product Strategy & Competition
 
 Maps TSC Net Zero / Energy / Water Offset against each industry's needs, then benchmarks TSC against **10 competitors** (Persefoni, IBM Envizi, Salesforce Net Zero Cloud, Schneider Electric, Honeywell, and others).
 
 **Finding: no competitor offers Carbon + Energy + Water in a single, India-focused platform — TSC is the only integrated, India-first solution in the set.**
 
-</details>
+![Product Strategy & Competition](images/03_product_strategy_competition.png)
 
-<details>
-<summary><b>📊 Page 4 — Stakeholder & Regulatory Landscape</b></summary>
 <br>
+
+### 📊 Page 4 — Stakeholder & Regulatory Landscape
 
 Identifies the **"power triangle"** — CFO, Chief Sustainability Officer, and ESG Head — as the highest-priority buyers, and lists the regulations (BRSR, BRSR Core, SEBI, CBAM, CDP, SBTi, TCFD, GHG Protocol) that are converting sustainability from a reporting exercise into a budgeted, urgent initiative.
 
-</details>
+![Stakeholder & Regulatory Landscape](images/04_stakeholder_regulatory_landscape.png)
 
-<details>
-<summary><b>📊 Page 5 — 90-Day GTM Execution Plan</b></summary>
 <br>
+
+### 📊 Page 5 — 90-Day GTM Execution Plan
 
 Breaks execution into three phases:
 
@@ -99,7 +102,7 @@ Breaks execution into three phases:
 - **Phase 2 — Engagement (Day 31–60):** 20 customer meetings, 10 workshops, 5 proposals, 3 pilot discussions
 - **Phase 3 — Conversion (Day 61–90):** 2–3 live pilots, 2 early wins, 1 reference account, 4x revenue pipeline
 
-</details>
+![90-Day GTM Execution Plan](images/05_90day_gtm_execution_plan.png)
 
 ---
 
