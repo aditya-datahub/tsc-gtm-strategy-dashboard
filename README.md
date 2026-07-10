@@ -12,10 +12,6 @@
 
 [View Dashboard Screenshots](#️-dashboard-walkthrough) · [Explore the Data](#-data-model) · [Read the Summary Note](docs/TSC_GTM_Dashboard_Summary_Note.pdf)
 
-<br>
-
-<img src="images/Executive%20Overview.png" width="100%" alt="TSC GTM Strategy Dashboard Preview" />
-
 
 </div>
 
