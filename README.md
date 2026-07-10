@@ -179,7 +179,7 @@ esg-gtm-strategy-dashboard/
 ## 🚀 How to View the Dashboard
 
 1. Clone or download this repository
-2. Open `dashboard/TSC_GTM_Strategy_Dashboard.pbix` in **Power BI Desktop** (free download from Microsoft)
+2. Open `dashboard/tsc_dashboard.pbix` in **Power BI Desktop** (free download from Microsoft)
 3. Use the **Filter by Industry** buttons (Page 2 & 3) and **Filter by Phase** buttons (Page 5) to explore the data interactively
 4. Alternatively, browse the static screenshots above or the [gallery carousel PDF](docs/TSC_Gallery_Carousel.pdf)
 
